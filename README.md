@@ -12,3 +12,4 @@ Most of the changes here are specific to composite foreign keys.
 These were needed for a very large legacy system.
 
 With these changes, we are able to generate a full, working Fluent nHibernate mapping for 1500+ tables with their proper relationships.
+Adding Angular Extensions
